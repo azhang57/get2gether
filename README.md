@@ -4,8 +4,12 @@
 # Features
 - Login System
 - Personal/Group Events
-- Event Management
-  Create/Edit/Delete Events
-- Groups
+- Event Management: Create/Edit/Delete Events
+- Group
 - Bulletins
 - Reminders
+
+# Technologies
+- QT Framework
+- MYSQL Connector
+- C++
