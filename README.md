@@ -1,2 +1,2 @@
 # Get2gether
-Team project of a task manager. This is a test! Add me!
+![Image](https://i.imgur.com/sO9Fn5Q.png)
