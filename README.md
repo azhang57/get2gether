@@ -1,2 +1,2 @@
 # Get2gether
-![Image](https://i.imgur.com/sO9Fn5Q.png)
+![Image](https://i.imgur.com/1rWeIHi.png)
