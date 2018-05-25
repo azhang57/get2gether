@@ -9,9 +9,43 @@ Get2gether is an application that acts as a personal secretary in which it helps
 ![Image](https://i.imgur.com/xitYzjO.png)
 ![Image](https://i.imgur.com/1rWeIHi.png)
 
+# Sprints
+Using the Agile approach to software development, there was a total of five sprints that lasted two weeks each.
+Development of the project lasted from September 17, 2017 to November 25, 2017.
+
+### Sprint 1 
+- Review QT and SQL DataBase 
+- Flesh Out Use Cases 
+- Work on UML
+
+### Sprint 2
+- System Requirements
+- Work on Prototype of Application
+- ERD design
+
+### Sprint 3
+- Create Database Tables
+- Button Functions
+- Show events in Tableview of Specific day
+- Highlight Calendar days that have events 
+
+### Sprint 4
+- Create Group, Group List, and show Group Calendar
+- Update Database for Group
+- Make the UI differentiate between group and user’s personal calendar
+
+### Sprint 5
+- Discussion Board and Reminders
+- Refactor and Debug code
+- Prepare Powerpoint Presentation
+
+# Database Design
+![Image](https://i.imgur.com/8IBWNb7.png)
+
 # Features
+- Account Creation
 - Login System
-- Personal/Group Events
+- Personal / Group Events
 - Event Management: Create/Edit/Delete Events
 - Group
 - Bulletins
