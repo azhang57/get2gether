@@ -51,7 +51,13 @@ Development of the project lasted from September 17, 2017 to November 25, 2017.
 - Prepare Powerpoint Presentation
 
 # Database Design
+All data is stored on a MySQL database hosted on Google Cloud and maintained using MySQL Workbench.  
+  
+**Setup**: MySQL 5.7 | 3.75GB Memory | 10GB SSD Storage  
+**Schema**: https://github.com/isaychris/Get2gether/blob/master/get2gether_db.sql  
+
 ![Image](https://i.imgur.com/8IBWNb7.png)
+
 
 # Technologies
 - QT Framework
